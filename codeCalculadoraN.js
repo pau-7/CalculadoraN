@@ -922,7 +922,7 @@ if (data.group !=='') {
     max.textContent='4,375'
     candidatesSalary.textContent='3,000'
     teilursFee.textContent='1,750'
-    bar.style.width='45%'
+    bar.style.width='37%'
     }else if(data.group === 'Finance & Accounting' && data.finance === 'Controller' && data.level === 'Mid Level') {
     price.textContent='1,875'
     total.textContent='1,875'
